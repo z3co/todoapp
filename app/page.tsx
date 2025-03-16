@@ -1,4 +1,3 @@
-import Image from "next/image";
 import Link from "next/link";
 import { lusitana, inter } from "@/app/ui/fonts";
 import { ArrowRightIcon } from "@heroicons/react/24/outline";
